@@ -1,0 +1,7 @@
+C:\Course\NET48\src\DOT_NET_48\SealedClasses\bin\Debug\SealedClasses.exe.config
+C:\Course\NET48\src\DOT_NET_48\SealedClasses\bin\Debug\SealedClasses.exe
+C:\Course\NET48\src\DOT_NET_48\SealedClasses\bin\Debug\SealedClasses.pdb
+C:\Course\NET48\src\DOT_NET_48\SealedClasses\obj\Debug\SealedClasses.csproj.AssemblyReference.cache
+C:\Course\NET48\src\DOT_NET_48\SealedClasses\obj\Debug\SealedClasses.csproj.CoreCompileInputs.cache
+C:\Course\NET48\src\DOT_NET_48\SealedClasses\obj\Debug\SealedClasses.exe
+C:\Course\NET48\src\DOT_NET_48\SealedClasses\obj\Debug\SealedClasses.pdb
