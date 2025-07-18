@@ -1,0 +1,15 @@
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\bin\Debug\net8.0\ToDoApp.exe
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\bin\Debug\net8.0\ToDoApp.deps.json
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\bin\Debug\net8.0\ToDoApp.runtimeconfig.json
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\bin\Debug\net8.0\ToDoApp.dll
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\bin\Debug\net8.0\ToDoApp.pdb
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\obj\Debug\net8.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfoInputs.cache
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfo.cs
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\obj\Debug\net8.0\ToDoApp.csproj.CoreCompileInputs.cache
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\obj\Debug\net8.0\ToDoApp.sourcelink.json
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\obj\Debug\net8.0\ToDoApp.dll
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\obj\Debug\net8.0\refint\ToDoApp.dll
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\obj\Debug\net8.0\ToDoApp.pdb
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\obj\Debug\net8.0\ToDoApp.genruntimeconfig.cache
+Z:\Temp\github\MindMajix_DOT_NET_4.8\ToDoApp\obj\Debug\net8.0\ref\ToDoApp.dll
