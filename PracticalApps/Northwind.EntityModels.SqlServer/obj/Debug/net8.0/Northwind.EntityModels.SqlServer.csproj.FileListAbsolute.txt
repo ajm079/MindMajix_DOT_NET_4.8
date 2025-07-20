@@ -1,0 +1,14 @@
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\bin\Debug\net8.0\Northwind.EntityModels.SqlServer.deps.json
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\bin\Debug\net8.0\Northwind.EntityModels.SqlServer.runtimeconfig.json
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\bin\Debug\net8.0\Northwind.EntityModels.SqlServer.dll
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\bin\Debug\net8.0\Northwind.EntityModels.SqlServer.pdb
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.EntityModels.SqlServer.csproj.AssemblyReference.cache
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.EntityModels.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.EntityModels.SqlServer.AssemblyInfoInputs.cache
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.EntityModels.SqlServer.AssemblyInfo.cs
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.EntityModels.SqlServer.csproj.CoreCompileInputs.cache
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.EntityModels.SqlServer.dll
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\obj\Debug\net8.0\refint\Northwind.EntityModels.SqlServer.dll
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.EntityModels.SqlServer.pdb
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\obj\Debug\net8.0\Northwind.EntityModels.SqlServer.genruntimeconfig.cache
+Z:\Temp\PracticalApps\Northwind.EntityModels.SqlServer\obj\Debug\net8.0\ref\Northwind.EntityModels.SqlServer.dll
