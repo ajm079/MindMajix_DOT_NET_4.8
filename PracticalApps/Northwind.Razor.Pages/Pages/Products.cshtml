@@ -1,0 +1,25 @@
+﻿@page
+@model ProductsModel
+<h2>Products</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Category</th>
+            <th>Supplier</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var p in Model.Products)
+    {
+        <tr>
+            <td>@p.ProductName</td>
+            <td>@p.Category?.CategoryName</td>
+            <td>@p.Supplier?.CompanyName</td>
+            <td>@($"{p.UnitPrice:C}")</td>
+        </tr>
+    }
+    </tbody>
+</table>
